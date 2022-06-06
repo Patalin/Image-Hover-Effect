@@ -7,10 +7,10 @@ body {
 .ffig {
   font-family: 'Fauna One', Arial, sans-serif;
   position: relative;
-  margin: 10px 20px;
-  min-width: 230px;
-  max-width: 295px;
-  min-height: 220px;
+  margin: 100px 200px;
+  min-width: 530px;
+  max-width: 595px;
+  min-height: 420px;
   width: 100%;
   color: red;
   text-align: right;
